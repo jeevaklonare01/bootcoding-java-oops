@@ -1,6 +1,6 @@
 package com.bootcoding.java.oops.exercise2;
 import java.util.Random;
-public class Application {
+public class   Application {
     public static void main(String[] args) {
         Random random = new Random();
         Student s = new Student();
