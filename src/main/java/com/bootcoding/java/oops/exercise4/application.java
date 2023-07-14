@@ -1,6 +1,4 @@
 package com.bootcoding.java.oops.exercise4;
-import com.bootcoding.java.oops.exercise1.GradeSystem;
-
 import java.util.Random;
 public class application {
     public static void main(String[] args) {
